@@ -15,4 +15,4 @@ jobs:
 
       - name: Start Minecraft Server
         run: |
-          java -Xmx1024M -Xms1024M -jar <server_file_name>.jar nogui
+          java -Xmx1024M -Xms1024M -jar server.jar nogui
