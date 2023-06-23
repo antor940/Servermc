@@ -34,3 +34,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+git add .github/workflows/minecraft-server.yml
+git commit -m "Added GitHub Actions workflow for Minecraft server"
+git push
